@@ -1,0 +1,11 @@
+.negrito {
+    font-weight: bold;
+}
+
+#textoPrincipal {
+    font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+    background-color: #444;
+    margin-bottom: auto;
+}
